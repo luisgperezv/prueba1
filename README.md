@@ -1,2 +1,1 @@
-# prueba1
-es una prueba para practicar subir 
+lista de tareas con javascript, react, html
